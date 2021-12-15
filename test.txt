@@ -1,0 +1,7 @@
+maths
+english
+physics
+chemistry
+biology
+geography
+
